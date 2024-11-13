@@ -25,15 +25,15 @@ Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** speciali
 ---
 
 ## 📈 Stats & Projects  
-🌐 **Website Redirection**: [Shaheer Mansoor](https://shaheermansoor.com) → [Dime Inc](https://dimeinc-us.com)  
-🔍 Check out my [highlighted repositories]([https://github.com/ShaheerMansoor?tab=repositories](https://github.com/Shaheer5/yc-directory))!  
+🌐 **Website Redirection**: [Shaheer Mansoor](https://shaheermansoor.com)
+🔍 Check out my [highlighted repositories](https://github.com/Shaheer5/yc-directory)!  
 
 ---
 
 ## 📬 Get in Touch  
-🔗 **Portfolio**: [[shaheermansoor.com]([shaheermansoor.com](https://shaheermansoor.com))  ](https://shaheermansoor.com)
+🔗 **Portfolio**: [shaheermansoor.com](https://shaheermansoor.com)
 ✉️ **Email**: me@shaheermansoor.com
-💼 **LinkedIn**: [[linkedin.com/in/shaheermansoor](#)  ](https://www.linkedin.com/in/shaheer-mansoor/)
+💼 **LinkedIn**: [linkedin.com/in/shaheer-mansoor](#) 
 
 ---
 
