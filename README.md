@@ -31,9 +31,9 @@ Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** speciali
 ---
 
 ## 📬 Get in Touch  
-🔗 **Portfolio**: [shaheermansoor.com](https://shaheermansoor.com)
+🔗 **Portfolio**: [Projects](_https://shaheermansoor.com/projects)
 ✉️ **Email**: me@shaheermansoor.com
-💼 **LinkedIn**: [linkedin.com/in/shaheer-mansoor](#) 
+💼 **LinkedIn**: [Shaheer Manoor](linkedin.com/in/shaheer-mansoor) 
 
 ---
 
