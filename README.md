@@ -45,7 +45,7 @@ Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** speciali
   <img alt="github-snake" src="https://raw.githubusercontent.com/farhanf7n/farhanf7n/output/github-snake.svg" />
 </picture>
 
-## 🌟 Fun Facts  
+## 🌟 Always looking ahead 
 - I specialize in building highly performant, scalable, and secure web applications.  
 - Always eager to learn and explore cutting-edge technologies.  
 
