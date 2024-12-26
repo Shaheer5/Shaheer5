@@ -4,7 +4,7 @@
 
 # 💻 Shaheer Mansoor
 
-Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** specializing in building high-quality web applications using modern tools and frameworks. Welcome to my GitHub profile! 🌟
+Hi there! 👋 I'm Shaheer Mansoor, a passionate **Full-Stack Developer** specializing in building high-quality web applications using modern tools and frameworks. Welcome to my GitHub profile! 🌟
 
 ## 🌟 About Me
 
@@ -26,24 +26,13 @@ Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** speciali
 
 ---
 
-## 📈 Stats & Projects
-
-🌐 **Website Redirection**: [Shaheer Mansoor](https://shaheermansoor.com)
-🔍 Check out my [highlighted repositories](https://github.com/Shaheer5/yc-directory)!
-
----
 
 ## 📬 Get in Touch
-
+🌐 **My Website**: [Shaheer Mansoor](https://shaheermansoor.com)
 🔗 **Portfolio**: [Projects](https://shaheermansoor.com/projects)
 ✉️ **Email**: me@shaheermansoor.com
 💼 **LinkedIn**: [Shaheer Manoor](linkedin.com/in/shaheer-mansoor)
 
 ---
-
-## 🌟 Always looking ahead
-
-- I specialize in building highly performant, scalable, and secure web applications.
-- Always eager to learn and explore cutting-edge technologies.
 
 Thank you for visiting my profile! Don’t forget to star ⭐ my repositories if you find them helpful!
