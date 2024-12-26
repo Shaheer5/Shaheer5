@@ -1,6 +1,7 @@
 <picture>
   <img alt="github-banner" src="./banner.png" />
 </picture>
+
 # 💻 Shaheer Mansoor
 
 Hi there! 👋 I'm Shaheer Mansoor, a passionate **Frontend Developer** specializing in building high-quality web applications using modern tools and frameworks. Welcome to my GitHub profile! 🌟
